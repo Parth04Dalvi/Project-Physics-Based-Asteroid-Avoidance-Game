@@ -1,5 +1,8 @@
 🚀 Asteroid Avoidance Game
 
+<img width="520" height="409" alt="image" src="https://github.com/user-attachments/assets/5b613647-ef95-4163-a5a3-4d9b9b1bd241" />
+
+
 Asteroid Avoidance is a classic-style arcade game built entirely with Vanilla JavaScript and the HTML Canvas API. It features physics-based movement and collision detection, demonstrating core web game development concepts within a single, portable HTML file.
 
 ✨ Features
